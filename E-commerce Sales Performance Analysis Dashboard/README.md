@@ -1,10 +1,10 @@
-E-commerce Sales Performance Analysis Dashboard
+E-commerce Sales Performance Analysis Dashboard:
 A dynamic, interactive data visualization report designed to analyze and monitor key sales and profitability metrics for an e-commerce business. This dashboard provides a consolidated view of transactional performance, customer geography, product category performance, and payment trends.
 
-Short Description / Purpose
+Short Description / Purpose:
 The E-commerce Sales Performance Dashboard is a visually engaging analytical report designed to help business stakeholders explore sales data across various dimensions. It focuses on highlighting Total Sales, Profit, Quantity Sold, and analyzing performance by State, City, Product Category, Sub-Category, and Payment Mode. This tool is intended for use by sales managers, marketing teams, logistics planners, and business analysts seeking to make data-driven decisions to boost revenue and profit margins.
 
-Tech Stack
+Tech Stack:
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main data visualization platform used for report creation.
