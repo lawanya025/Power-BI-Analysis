@@ -1,6 +1,8 @@
 # E-commerce Sales Performance Analysis Dashboard
 
-### 1. Short Description / Purpose
+## A Dynamic Sales and Profitability Insights Tool
+
+### 1. Short Description 
 
 The E-commerce Sales Performance Dashboard is a visually engaging analytical report designed to help business stakeholders explore sales data across various dimensions. It focuses on highlighting **Total Sales, Profit, Quantity Sold,** and analyzing performance by **State, City, Product Category, Sub-Category,** and **Payment Mode**. This tool is intended for use by sales managers, marketing teams, logistics planners, and business analysts seeking to make data-driven decisions to boost revenue and profit margins.
 
@@ -28,7 +30,7 @@ The data is sourced from two CSV files detailing e-commerce transactions:
 <small>*The data covers orders from an Indian e-commerce company across 2018.*</small>
 
 ---
-### Features / Highlights
+### 4. Features / Highlights
 
 ### 💡 Business Problem & Goal
 
@@ -54,7 +56,7 @@ The global e-commerce market is highly competitive. Our company needs a centrali
 * **<small>Inventory & Product Focus:</small>** Insights inform the merchandising team on which categories to **stock more** (high sales) and which to **re-evaluate or discontinue** (low sales, negative profit).
 
 ---
-Screenshots / Demos: ![E-commerce Dashboard Screenshot]([Snapshot of the Dashboard.png](https://github.com/lawanya025/Power-BI-Analysis/blob/main/E-commerce%20Sales%20Performance%20Analysis%20Dashboard/Snapshot%20of%20the%20Dashboard.png))
+### 5. Screenshots / Demos: ![E-commerce Dashboard Screenshot]([Snapshot of the Dashboard.png](https://github.com/lawanya025/Power-BI-Analysis/blob/main/E-commerce%20Sales%20Performance%20Analysis%20Dashboard/Snapshot%20of%20the%20Dashboard.png))
 
 
 
